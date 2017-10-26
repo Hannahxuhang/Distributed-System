@@ -1,0 +1,10 @@
+hangxu/skiresortserver/TaskManager.class
+hangxu/skiresortserver/MyVertProcessor.class
+dao/ConnectionUtil.class
+hangxu/skiresortserver/RFIDLiftDataProcessor.class
+data/RFIDLiftData.class
+dao/MyVertDao.class
+hangxu/skiresortserver/ApplicationConfig.class
+dao/RFIDLiftDataDao.class
+hangxu/skiresortserver/GenericResource.class
+data/MyVert.class
